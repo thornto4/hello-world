@@ -6,3 +6,6 @@ Hello GitHub!
 2. Write down interesting idea
 3. ???
 4. Profit!
+
+### An even Better Idea
+1. Go to bed!
